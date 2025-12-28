@@ -13,7 +13,7 @@ El objetivo es realizar un *diagnóstico integral del rendimiento comercial* de 
 El análisis se enfoca en:
 - *Eficiencia operativa: discrepancia entre *cajas entregadas y cajas facturadas.
 - *Valor estratégico: tendencias de crecimiento por **familias de producto* en los últimos 3 años.
-- *Concentración de ingresos: identificación de clientes clave y comportamiento por **canal de distribución*. :contentReference[oaicite:1]{index=1}
+- *Concentración de ingresos: identificación de clientes clave y comportamiento por **canal de distribución*.
 
 ---
 
@@ -98,4 +98,4 @@ El análisis se enfoca en:
 ## 🧩 Conclusión Final
 - La empresa muestra *buena eficiencia operativa* (entregas sin facturar por debajo del umbral crítico).
 - La facturación presenta *concentración elevada en pocos clientes/pedidos*, lo cual implica riesgo.
-- La estrategia recomendada debería priorizar *clientes de alto valor y canales más rentables*, no solo aumentar volumen operativo. :contentReference[oaicite:2]{index=2}
+- La estrategia recomendada debería priorizar *clientes de alto valor y canales más rentables*, no solo aumentar volumen operativo.
