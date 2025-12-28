@@ -11,9 +11,9 @@ Contiene los archivos, notebooks y análisis desarrollados durante el proyecto.
 ## 🧾 Enfoque General
 
 El análisis se enfoca en:
-- *Eficiencia operativa: discrepancia entre *cajas entregadas y cajas facturadas.
-- *Valor estratégico: tendencias de crecimiento por **familias de producto* en los últimos 3 años.
-- *Concentración de ingresos: identificación de clientes clave y comportamiento por **canal de distribución*.
+- Eficiencia operativa: discrepancia entre cajas entregadas y cajas facturadas.
+- Valor estratégico: tendencias de crecimiento por **familias de producto* en los últimos 3 años.
+- Concentración de ingresos: identificación de clientes clave y comportamiento por **canal de distribución*.
 
 ---
 
