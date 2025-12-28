@@ -1,6 +1,6 @@
 # Trabajo Final – Natalia Re – Vinos 🍷
 
-Este repositorio contiene los trabajos realizados durante la cursada de **Data Science I**,** culminando en un proyecto final basado en el análisis de rendimiento comercial de una distribuidora de vinos (Base SANA).
+Este repositorio contiene los trabajos realizados durante la cursada de **Data Science I**, culminando en un proyecto final basado en el análisis de rendimiento comercial de una distribuidora de vinos (Base SANA).
 
 El proyecto comenzó como un ejercicio de visualización y análisis exploratorio (EDA) de ventas, canales de distribución y eficiencia logística, y evolucionó hacia un enfoque de modelado predictivo. En la etapa final, se aplicaron técnicas de ciencia de datos y algoritmos de clasificación para identificar patrones de consumo y predecir la probabilidad de fuga de clientes (Churn Analysis), permitiendo transformar datos históricos en decisiones estratégicas de retención.
 
