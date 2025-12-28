@@ -1,14 +1,14 @@
 # Trabajo Final – Natalia Re – Vinos 🍷
 
-Este repositorio está siendo utilizado como parte del **Trabajo Final** del curso de **Data Science** de **Coderhouse (2025)**.
+Este repositorio contiene los trabajos realizados durante la cursada de **Data Science I**,** culminando en un proyecto final basado en el análisis de rendimiento comercial de una distribuidora de vinos (Base SANA).
+
+El proyecto comenzó como un ejercicio de visualización y análisis exploratorio (EDA) de ventas, canales de distribución y eficiencia logística, y evolucionó hacia un enfoque de modelado predictivo. En la etapa final, se aplicaron técnicas de ciencia de datos y algoritmos de clasificación para identificar patrones de consumo y predecir la probabilidad de fuga de clientes (Churn Analysis), permitiendo transformar datos históricos en decisiones estratégicas de retención.
 
 Contiene los archivos, notebooks y análisis desarrollados durante el proyecto.
 
 # 📊 Diagnóstico Comercial y Análisis Estratégico de Ventas (Base_SANA)
 
-## 🧾 Descripción General
-Este repositorio contiene el trabajo de *Primera Entrega* del proyecto final de Data Science.  
-El objetivo es realizar un *diagnóstico integral del rendimiento comercial* de la empresa utilizando el dataset *Base_SANA*, validando la estrategia actual a partir de indicadores operativos y de valor.
+## 🧾 Enfoque General
 
 El análisis se enfoca en:
 - *Eficiencia operativa: discrepancia entre *cajas entregadas y cajas facturadas.
